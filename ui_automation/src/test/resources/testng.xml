@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Online Bookstore UI Automation Suite" verbose="1">
+    <test name="Bookstore POM and DataProvider Regression Tests">
+        <classes>
+            <class name="com.bookstore.tests.BookStoreUiTests"/>
+        </classes>
+    </test>
+</suite>
